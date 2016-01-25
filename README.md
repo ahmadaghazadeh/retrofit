@@ -1,6 +1,8 @@
 Retrofit
 ========
 
+http://square.github.io/retrofit/
+
 Type-safe HTTP client for Android and Java by Square, Inc.
 
 For more information please see [the website][1].
